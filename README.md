@@ -17,3 +17,9 @@
 - LEVEL 2 [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) / [code](week3/뉴스%20클러스터링.py)
 - LEVEL 2 [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) / [code](week3/프렌즈4블록.py)
 - LEVEL 2 [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) / [code](week3/파일명%20정렬.py)
+
+## 4주차
+
+- LEVEL 2 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) / [code](week4/오픈채팅방.py)
+- LEVEL 1 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) / [code](week4/실패율.py)
+- LEVEL 2 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) / [code](week4/후보키.py)
