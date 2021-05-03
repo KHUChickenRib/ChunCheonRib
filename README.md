@@ -23,3 +23,11 @@
 - LEVEL 2 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) / [code](week4/오픈채팅방.py)
 - LEVEL 1 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) / [code](week4/실패율.py)
 - LEVEL 2 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) / [code](week4/후보키.py)
+
+## 5주차
+
+- LEVEL 2 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) / [code](week5_6/문자열%20압축.py)
+- LEVEL 2 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) / [code](week5_6/괄호%20변환.py)
+- LEVEL 1 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) / [code](week5_6/신규%20아이디%20추천.py)
+- LEVEL 2 [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) / [code](week5_6/메뉴%20리뉴얼.py)
+- LEVEL 2 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) / [code](week5_6/순위%20검색.py)
