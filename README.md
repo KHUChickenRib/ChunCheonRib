@@ -24,7 +24,7 @@
 - LEVEL 1 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) / [code](week4/실패율.py)
 - LEVEL 2 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) / [code](week4/후보키.py)
 
-## 5주차
+## 5_6주차
 
 - LEVEL 2 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) / [code](week5_6/문자열%20압축.py)
 - LEVEL 2 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) / [code](week5_6/괄호%20변환.py)
