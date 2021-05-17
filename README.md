@@ -36,4 +36,4 @@
 
 - LEVEL 3 [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) / [code](week7_8/추석%20트래픽.py)
 - LEVEL 3 [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) / [code](week7_8/셔틀버스.py)
-- LEVEL 3 [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) / [code](week7_8/자동완성.py)
+- LEVEL 4 [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) / [code](week7_8/자동완성.py)
