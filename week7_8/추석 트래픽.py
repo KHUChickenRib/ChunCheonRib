@@ -8,16 +8,17 @@ def trafic(time, lst):
     return c
 
 def solution(lines):
-    answer = 0
+    answer = 1
     lst = []
     for line in lines:
         day, time, work = line.split()
         h,m,s = time.split(':')
-        end = int(h)*3600 + int(m)+60 + float(s)+1000
-        start = end - float(work[:-1])*1000 + 1
+        work = float(work[:-1])*1000
+        end = (int(h)*3600 + int(m)*60 + float(s))*1000
+        start = end - work + 1
         lst.append([start, end])
 
-        for i in lst:
-            answer = max(answer,trafic(i[0],lst),trafic(i[1],lst)) 
+    for i in lst:
+        answer = max(answer,trafic(i[0],lst),trafic(i[1],lst)) 
 
     return answer
