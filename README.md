@@ -31,3 +31,9 @@
 - LEVEL 1 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) / [code](week5_6/신규%20아이디%20추천.py)
 - LEVEL 2 [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) / [code](week5_6/메뉴%20리뉴얼.py)
 - LEVEL 2 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) / [code](week5_6/순위%20검색.py)
+
+## 7_8주차
+
+- LEVEL 3 [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) / [code](week7_8/추석%20트래픽.py)
+- LEVEL 3 [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) / [code](week7_8/셔틀버스.py)
+- LEVEL 4 [자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) / [code](week7_8/자동완성.py)
