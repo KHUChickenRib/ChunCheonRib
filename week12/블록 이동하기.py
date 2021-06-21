@@ -28,7 +28,6 @@ def move(p1, p2, board):
 
 
 def solution(board):
-    answer = 0
     N = len(board)
 
     # 테두리 생성
@@ -39,11 +38,10 @@ def solution(board):
 
     q = deque()
     q.append([(1, 1), (1, 2), 0])
-    visited = set([((1, 1), (1, 2))])
+    visited = set([(1, 1), (1, 2)])
 
     while q:
         p1, p2, distance = q.popleft()
-        distance += 1
         if p1 == (N, N) or p2 == (N, N):
             return distance
         for pos in move(p1, p2, new_board):
